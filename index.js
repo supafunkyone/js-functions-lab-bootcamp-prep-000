@@ -7,4 +7,4 @@ function happyHolidaysTo(string) {
   return "Happy Holidays, Alex"
 }
 
-if (name === )
+if (name === "Alex")
