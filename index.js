@@ -10,3 +10,5 @@ function happyHolidaysTo(string) {
 if (name === "Alex") {
   console.log()
 }
+
+var happyHolidays = {name: 'Alex', holiday: 'christmas', holidayCountdown: '44' {;
