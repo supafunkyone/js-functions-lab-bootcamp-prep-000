@@ -3,4 +3,4 @@ function happyHolidays(string) {
   return "Happy holidays!"
 }
 
-var name = "Alex"
+console.log(name)
