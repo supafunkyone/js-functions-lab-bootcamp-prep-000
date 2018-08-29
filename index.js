@@ -7,8 +7,3 @@ function happyHolidaysTo(string) {
   return "Happy Holidays, Alex"
 }
 
-if (name === "Alex") {
-  console.log()
-}
-
-var happyHolidays = {name: 'Alex', holiday: 'christmas', holidayCountdown: '44' };
