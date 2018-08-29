@@ -3,6 +3,6 @@ function happyHolidays(string) {
   return "Happy holidays!"
 }
 
-console.log("Alex")
-console.log(name)
-
+function happyHolidaysTo(string) {
+  return "Happy Holidays, Alex"
+}
